@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Pytest and test reports
+htmlcov/
+Reports/
+*.log
+.cache/
+.coverage
+coverage.xml
+
+# VSCode and other IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# dotenv environment files
+.env
+.env.*
+
+# Python specific
+pip-log.txt
+pip-delete-this-directory.txt
